@@ -1,3 +1,4 @@
-if 5>2:
+if 5<2:
 #     print("Greater")
-# print("rest of the code")
+# else:
+#     print("Smaller")
